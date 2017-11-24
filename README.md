@@ -22,8 +22,9 @@
 
 ## Examples
 
-- [poi-storybook-example](https://github.com/poi-examples/storybook-vue-example)
-- [preact-redux-example](https://github.com/poi-examples/preact-redux-example)
+- [storybook-vue-example](https://github.com/poi-examples/storybook-vue-example): Demonstrate Vue components using Storybook. 
+- [preact-redux-example](https://github.com/poi-examples/preact-redux-example): Minimal Preact Redux todo app.
+- [vue-ts-example](https://github.com/poi-examples/vue-ts-example): Minimal Vue TypeScript example.
 
 ## Projects
 
