@@ -38,6 +38,7 @@
 - [emoji.js.org](https://emoji.js.org) - Unfancy emoji searcher.
 - [ANII](https://github.com/egoist/anii) - A minimalistic web video player.
 - [WhyVote.us](http://whyvote.us) - Info about the American presidential voting system.
+- [NBA scores](https://nba.now.sh) - A simple Vue project that displays daily NBA scores.
 
 ## Links
 
