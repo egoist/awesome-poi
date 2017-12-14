@@ -25,6 +25,8 @@
 - [storybook-vue-example](https://github.com/poi-examples/storybook-vue-example): Demonstrate Vue components using Storybook. 
 - [preact-redux-example](https://github.com/poi-examples/preact-redux-example): Minimal Preact Redux todo app.
 - [vue-ts-example](https://github.com/poi-examples/vue-ts-example): Minimal Vue TypeScript example.
+- [eslint-example](https://github.com/poi-examples/eslint-example): Run ESLint CLI against your Poi project.
+- [more...](https://github.com/poi-examples)
 
 ## Projects
 
