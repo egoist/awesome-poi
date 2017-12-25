@@ -12,6 +12,7 @@
 - [poi-preset-eslint](https://github.com/egoist/poi/tree/master/packages/poi-preset-eslint) - Run ESLint while bundling.
 - [poi-preset-karma](https://github.com/egoist/poi/tree/master/packages/poi-preset-karma) - Add Karma support.
 - [poi-preset-offline](https://github.com/egoist/poi/tree/master/packages/poi-preset-offline) - Add offline-plugin support for building PWA app.
+- [poi-preset-sw-precache](https://github.com/egoist/poi/tree/master/packages/poi-preset-sw-precache) - Integrated sw-precache-webpack-plugin into production configuration to add Progressive Web App support.
 - [poi-preset-react](https://github.com/egoist/poi/tree/master/packages/poi-preset-react) - Enable React JSX and React hot reloading support.
 - [poi-preset-riot](https://github.com/egoist/poi/tree/master/packages/poi-preset-riot) - Add Riot support.
 - [poi-preset-storybook](https://github.com/egoist/poi/tree/master/packages/poi-preset-buble) - Add Storybook support.
