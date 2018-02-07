@@ -20,6 +20,8 @@
 - [poi-preset-transform-test-files](https://github.com/egoist/poi/tree/master/packages/poi-preset-transform-test-files) - Use Poi to transform test files.
 - [poi-preset-typescript](https://github.com/egoist/poi/tree/master/packages/poi-preset-typescript) - Add Typescript support.
 - [poi-preset-webpackmonitor](https://github.com/egoist/poi/tree/master/packages/poi-preset-webpackmonitor) - Monitoring webpack optimization metrics.
+- [poi-preset-ugfliy-es](https://github.com/morrislaptop/poi-preset-uglify-es) - Use the next version of UglifyJS (uglify-es) to minify your ES6+ files.
+- [poi-preset-purifycss](https://github.com/morrislaptop/poi-preset-purifycss) - Tree shake your CSS just like your JS.
 
 ## Examples
 
